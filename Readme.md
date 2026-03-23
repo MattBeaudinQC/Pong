@@ -12,8 +12,7 @@ The scoreboard increments after each point, and the game restarts.
 Requirements:
 
 - This should be as close as we can get to the original 1972 version of Pong.
-- The keyboard should allow for two players. Player one uses the up/down directional keys, and Player 2 uses Q/A
-- There should be a simple way to exit the game and pause it.
+- The keyboard should allow for two players. Player Two uses the up/down directional keys, and Player 1 uses W/S
 - There should be a scoreboard visible as well.
 
 
