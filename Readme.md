@@ -7,9 +7,9 @@ Player 1 uses W and S to move the paddle up and down, and Player 2 users the Up 
 
 The scoreboard increments after each point, and the game restarts.
 
+<img width="300" alt="pong_1" src="https://github.com/user-attachments/assets/d5a28b06-fa37-472e-9f23-4792c13c1ebe" />
 
 ### These were my requirements
-Requirements:
 
 - This should be as close as we can get to the original 1972 version of Pong.
 - The keyboard should allow for two players. Player Two uses the up/down directional keys, and Player 1 uses W/S
