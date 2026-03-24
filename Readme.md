@@ -2,19 +2,16 @@
 Final project for CST8279. This is my own version of
 pong leveraging pygame (https://www.pygame.org/wiki/about)
 
-This is a two player game, with each player sharing the same keyboard. 
-Player 1 uses W and S to move the paddle up and down, and Player 2 users the Up and Down keys.
-
-The scoreboard increments after each point, and the game restarts.
-
 <img width="300" alt="pong_1" src="https://github.com/user-attachments/assets/d5a28b06-fa37-472e-9f23-4792c13c1ebe" />
 
-### These were my requirements
+### Features
 
 - This should be as close as we can get to the original 1972 version of Pong.
-- The keyboard should allow for two players. Player Two uses the up/down directional keys, and Player 1 uses W/S
-- There should be a scoreboard visible as well.
+- The keyboard allows for two players. Player Two uses the up/down directional keys, and Player 1 uses W/S
+- There is a scoreboard. 
 
+### Setup notes
+Pong requires `pygame`, `random` and `sys` packages, and runs on Python 3.10. You will not be able to deploy `pygame` on the latest version of python anyways, as there is an exception related to `wheel`.
 
 ### Design considerations
 As a nostalgic note, There use to be a game played in the browser in the early 2000s called
